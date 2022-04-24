@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #6455ee;
+    background:  #55e1ee;
+}
+.logo
+{
+    height: 110px;
+    padding: 2px 10px;
+}
+.icon-bar
+{
+    background: darkblue;
+}
+
+li a
+{
+    color: #333;
+}
+.Big-text
+{
+    font-size: 52px;
+    margin: 20px 0;
+    color: rgb(2, 2, 200);
+}
+a.btn
+{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.btn-fist
+{
+    background-color: rgb(107, 107, 168);
+    border:darkblue ;
+    color: #333;
+    
+}
+a.btn-second
+{
+    background-color: transparent;
+    border: 1px solid darkblue;
+}
+a.btn:hover
+{
+    background: darkcyan;
+    border: none;
+    color: #fff;
+    box-shadow: ; 5px 5px 10px #999;
+    transition: 0.3s;
+}
+.banner-info, .banner-image
+{
+    margin: 30 0;
+}
